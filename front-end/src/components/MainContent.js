@@ -18,7 +18,7 @@ const MainContent = props =>{
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-12 col-md-6">
+                    <div className="col-sm-12 col-md-6">
                         <h6><i>Directions</i></h6>
                         <ol>
                             {directions.map(direction =>{
@@ -29,7 +29,7 @@ const MainContent = props =>{
                             })}
                         </ol>
                     </div>
-                    <div className="col-12 col-md-6">
+                    <div className="col-sm-12 col-md-6">
                         <h6><i>Ingredients</i></h6>
                         <ul>
                             {ingredients.map(ingredient=>{

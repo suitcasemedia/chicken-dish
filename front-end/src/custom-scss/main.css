@@ -5928,7 +5928,8 @@ a.u-faux-block-link__overlay {
 .left-side-bar {
   background-color: #c6573b;
   height: 100vh;
-  color: #fff; }
+  color: #fff;
+  flex: 1; }
 
 .main-content {
   background-color: #fff;

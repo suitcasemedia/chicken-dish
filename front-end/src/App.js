@@ -21,7 +21,7 @@ class App extends Component {
            fact} = content
     return (
       <div className="row">
-        <LeftSideBar 
+         <LeftSideBar 
             preparationTime ={preparationTime}
             cookTimer={cookTimer}
             readyIn={readyIn}
@@ -35,6 +35,7 @@ class App extends Component {
                      directions={directions}
                      ingredients={ingredients}
                      fact={fact}/>
+       
         <PicturePanel/>
 
           

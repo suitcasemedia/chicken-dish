@@ -14,7 +14,7 @@ const LeftSideBar = props =>{
         <div className="left-side-bar col-12 col-md-3 col-lg-2">
             <div className="container">
                 <div className="row">
-                    <div className="col-12 text-center py-4">
+                    <div className="text-center p-4">
                      
                         <p><i>Prep Time:</i><br/>{preparationTime}</p>
                         <p><i>CookTime:</i><br/>{cookTimer}</p>
