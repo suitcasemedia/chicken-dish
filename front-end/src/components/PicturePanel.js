@@ -3,8 +3,8 @@ import chicken from '../images/chicken.jpg';
 
 const PicturePanel = props =>{
     return(
-        <div  style={{backgroundImage: `url(${chicken}) `, backgroundSize: 'cover'}} className="picture-panel col-6">
-            <h1> hello</h1>
+        <div  style={{backgroundImage: `url(${chicken}) `, backgroundSize: 'cover'}} className="picture-panel col-12 col-md-4 col-lg-5">
+            
         </div>
     )
 }

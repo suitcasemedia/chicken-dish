@@ -5893,7 +5893,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  height: 100vh; }
+  height: 100vh;
+  font-size: 11px; }
 
 .u-faux-block-link {
   position: relative; }
