@@ -1,6 +1,10 @@
+
+@import './../bootstrap/bootstrap.scss';
 @import './variables';
 @import './base';
-@import './buttons' ;
-@import './components/contact-form-page';
 @import './utils/u-faux-link';
-@import './forms';
+@import './components/left-side-bar';
+@import './components/main-content';
+@import './components/picture-panel' ;
+@import './layout/flex-container'
+
